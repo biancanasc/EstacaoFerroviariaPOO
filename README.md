@@ -1,3 +1,2 @@
-# EstacaoFerroviariaPOO
-Criado por Bianca Oliveira e Melissa Guedes 
+# EstacaoFerroviariaPOO 
 Engenharia de Computação - 2023.2 
