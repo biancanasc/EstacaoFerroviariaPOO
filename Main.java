@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Date;
-// criado por Bianca Oliveira e Melissa Guedes
+
 public class Main {
     public static void main(String[] args) {
         Locomotiva locomotiva = new Locomotiva("456", 5000, 10.0);
